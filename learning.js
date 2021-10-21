@@ -10,7 +10,8 @@ console.log(name +" Osorio"
 
 console.log(
 
-    2+2
+    "A " +  "B"
+
 
 );
 
