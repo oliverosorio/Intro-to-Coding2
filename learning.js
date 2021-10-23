@@ -8,11 +8,11 @@ console.log(name +" Osorio"
 
 
 
-console.log(
+console.log("843=581=0000");
 
-    "A " +  "B"
+    
 
 
-);
+
 
 
