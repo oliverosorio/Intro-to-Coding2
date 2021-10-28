@@ -11,6 +11,6 @@ console.log(name +" Osorio"
 console.log("843-581-0000")
 console.log(843-581-0000)
 let y = 3;
-
+let cl = console.log;
 
 
